@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import './styles/categoriesMiniContainer.css';
 
 export default function Btn({btnText}) {
   return (
